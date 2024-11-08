@@ -1,6 +1,7 @@
 [submodule "frontend"]
-	path = frontend
-	url = C:/Users/dmytro.lukashenko/AppData/Local/Programs/Git/frontend
+  path = frontend
+  url = https://github.com/Dmytro-Lukashenko/frontend.git
+
 [submodule "backend"]
-	path = backend
-	url = C:/Users/dmytro.lukashenko/AppData/Local/Programs/Git/backend
+  path = backend
+  url = https://github.com/Dmytro-Lukashenko/backend.git
